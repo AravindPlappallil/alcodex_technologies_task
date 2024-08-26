@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    border-bottom: solid 1px;
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+    display: inline;
+    padding: 1% 1%;
+}
